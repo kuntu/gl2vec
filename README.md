@@ -1,2 +1,2 @@
 # gl2vec
-graphlet to vector: a graph/network feature representation for machine learning
+graphlet to vector: a feature representation for graph/network in machine learning
